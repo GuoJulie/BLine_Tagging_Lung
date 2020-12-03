@@ -1,4 +1,4 @@
-# Img_Tagging_Lung
+# BLine_Tagging_Lung
 Reconnaissance de ligne B + Test d'algorithme P3D / R (2+1) D
 
 ## Sujet : Apprentissage et reconnaissance de formes dans les images échographiques des poumons
